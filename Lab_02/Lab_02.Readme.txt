@@ -1,0 +1,6 @@
+Lab_02 was attempted via a quize as per instructions. 
+A Github link was required to be provided with the quize. 
+For that purpose, the Lab_02 code is saved in separate repository. 
+Link of the repository is given below:
+
+https://github.com/Ilyaas189/Lab-02-Bootstrap
